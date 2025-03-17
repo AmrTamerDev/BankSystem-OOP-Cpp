@@ -1,0 +1,294 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Project3_Bank System.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  clsAddNewClientScreen.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsAddNewClientScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+D:\Bank System\Project3_Bank System\clsBankClient.h(173,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsAddNewClientScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsBankClient.h(22,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+  clsAddNewUserScreen.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsAddNewUserScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+  clsBankClient.cpp
+D:\Bank System\Project3_Bank System\clsBankClient.h(173,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsBankClient.cpp')
+      D:\Bank System\Project3_Bank System\clsBankClient.h(22,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+  clsClientListScreen.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsClientListScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+D:\Bank System\Project3_Bank System\clsBankClient.h(173,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsClientListScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsBankClient.h(22,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+  clsCurrency.cpp
+  clsCurrencyCalculatorScreen.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsCurrencyCalculatorScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+  clsCurrencyExchangeScreen.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsCurrencyExchangeScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+  clsDeleteClientScreen.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsDeleteClientScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+D:\Bank System\Project3_Bank System\clsBankClient.h(173,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsDeleteClientScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsBankClient.h(22,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+  clsDeleteUserScreen.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsDeleteUserScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+  clsDepositScreen.cpp
+D:\Bank System\Project3_Bank System\clsBankClient.h(173,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsDepositScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsBankClient.h(22,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsDepositScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+  clsFindClientScreen.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsFindClientScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+D:\Bank System\Project3_Bank System\clsBankClient.h(173,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsFindClientScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsBankClient.h(22,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+  clsFindCurrencyScreen.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsFindCurrencyScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+  clsFindUserScreen.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsFindUserScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+  clsListCurrenciesScreen.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsListCurrenciesScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+  clsListUserScreen.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsListUserScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+  clsLoginRegister.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsLoginRegister.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+D:\Bank System\Project3_Bank System\clsLoginRegisterScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsLoginRegister.cpp')
+  
+  clsLoginScreen.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsLoginScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+D:\Bank System\Project3_Bank System\clsBankClient.h(173,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsLoginScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsBankClient.h(22,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+D:\Bank System\Project3_Bank System\clsTotalBalancesScreen.h(59,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'clsLoginScreen.cpp')
+  
+D:\Bank System\Project3_Bank System\clsLoginRegisterScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsLoginScreen.cpp')
+  
+  clsMainScreen.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsMainScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+D:\Bank System\Project3_Bank System\clsBankClient.h(173,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsMainScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsBankClient.h(22,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+D:\Bank System\Project3_Bank System\clsTotalBalancesScreen.h(59,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+D:\Bank System\Project3_Bank System\clsLoginRegisterScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'clsMainScreen.cpp')
+  
+  clsManageUsersScreen.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsManageUsersScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+D:\Bank System\Project3_Bank System\clsBankClient.h(173,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsManageUsersScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsBankClient.h(22,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+  clsPerson.cpp
+  Compiling...
+  clsScreen.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+  clsTotalBalancesScreen.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsTotalBalancesScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+D:\Bank System\Project3_Bank System\clsBankClient.h(173,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsTotalBalancesScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsBankClient.h(22,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+D:\Bank System\Project3_Bank System\clsTotalBalancesScreen.h(59,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'clsTotalBalancesScreen.cpp')
+  
+  clsTransactionsScreen.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsTransactionsScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+D:\Bank System\Project3_Bank System\clsBankClient.h(173,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsTransactionsScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsBankClient.h(22,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+D:\Bank System\Project3_Bank System\clsTotalBalancesScreen.h(59,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'clsTransactionsScreen.cpp')
+  
+  clsTransferLogScreen.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsTransferLogScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+D:\Bank System\Project3_Bank System\clsBankClient.h(173,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsTransferLogScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsBankClient.h(22,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+  clsTransferScreen.cpp
+D:\Bank System\Project3_Bank System\clsBankClient.h(173,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsTransferScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsBankClient.h(22,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsTransferScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+  clsUpdateClientScreen.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsUpdateClientScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+D:\Bank System\Project3_Bank System\clsBankClient.h(173,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsUpdateClientScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsBankClient.h(22,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+  clsUpdateCurrencyScreen.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsUpdateCurrencyScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+  clsUpdateUserScreen.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsUpdateUserScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+  clsUser.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsUser.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+  clsWithDrawScreen.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsWithDrawScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+D:\Bank System\Project3_Bank System\clsBankClient.h(173,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsWithDrawScreen.cpp')
+      D:\Bank System\Project3_Bank System\clsBankClient.h(22,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+  Global.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Global.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+  Source.cpp
+D:\Bank System\Project3_Bank System\clsUser.h(154,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Source.cpp')
+      D:\Bank System\Project3_Bank System\clsUser.h(26,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+D:\Bank System\Project3_Bank System\clsBankClient.h(173,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Source.cpp')
+      D:\Bank System\Project3_Bank System\clsBankClient.h(22,9):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+D:\Bank System\Project3_Bank System\clsTotalBalancesScreen.h(59,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+D:\Bank System\Project3_Bank System\clsLoginRegisterScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Source.cpp')
+  
+  Generating code
+D:\Bank System\Project3_Bank System\clsBankClient.h(322): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\Bank System\Project3_Bank System\clsUser.h(283): warning C4715: 'clsUser::Save': not all control paths return a value
+  844 of 858 functions (98.4%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project3_Bank System.vcxproj -> D:\Bank System\x64\Release\Bank System.exe

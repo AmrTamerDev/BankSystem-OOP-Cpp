@@ -1,0 +1,20 @@
+﻿  Source.cpp
+D:\programming advices\course 11 C++ (OOP)\Project3_Bank System\Project3_Bank System\clsUtil.h(143,8): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'Source.cpp')
+  
+  clsDepositScreen.cpp
+D:\programming advices\course 11 C++ (OOP)\Project3_Bank System\Project3_Bank System\clsUtil.h(143,8): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'clsDepositScreen.cpp')
+  
+  clsMainScreen.cpp
+D:\programming advices\course 11 C++ (OOP)\Project3_Bank System\Project3_Bank System\clsUtil.h(143,8): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+  clsTransactionsScreen.cpp
+D:\programming advices\course 11 C++ (OOP)\Project3_Bank System\Project3_Bank System\clsUtil.h(143,8): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+  (compiling source file 'clsTransactionsScreen.cpp')
+  
+  Generating Code...
+D:\programming advices\course 11 C++ (OOP)\Project3_Bank System\Project3_Bank System\clsBankClient.h(271,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\programming advices\course 11 C++ (OOP)\Project3_Bank System\Project3_Bank System\clsBankClient.h(328,1): warning C4715: 'clsBankClient::Deposit': not all control paths return a value
+  Project3_Bank System.vcxproj -> D:\programming advices\course 11 C++ (OOP)\Project3_Bank System\x64\Debug\Project3_Bank System.exe
